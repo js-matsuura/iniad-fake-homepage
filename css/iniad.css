@@ -10,7 +10,7 @@ h1 {
 
 h2 {
   font-size: 20px;
-  color: #000000;
+  color: #232576;
   border-bottom: solid 1px #cc0000;
 }
 
@@ -26,11 +26,11 @@ h3 {
 }
 
 .iniad {
-  color: #3812c2;
+  color: #232576;
 }
 
 .time {
   font-weight: bold;
-  color: #cc0000;
+  color: #232576;
   font-size: 30px;
 }
