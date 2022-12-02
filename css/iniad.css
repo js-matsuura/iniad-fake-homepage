@@ -34,3 +34,18 @@ h3 {
   color: #232576;
   font-size: 30px;
 }
+
+#content {
+  display: flex;
+  flex-direction: row;
+}
+
+#side {
+  width : 25%;
+}
+
+#main {
+  width: 75%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
